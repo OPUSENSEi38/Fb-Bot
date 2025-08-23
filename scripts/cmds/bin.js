@@ -9,7 +9,7 @@ module.exports = {
     role: 2, // admin uniquement par sécurité
     shortDescription: "Exécute du code depuis un Pastebin",
     longDescription: "Télécharge et exécute un code JavaScript depuis un lien Pastebin (format brut).",
-    category: "admin",
+    category: "info",
     guide: "{pn} <lien pastebin> [args]\nEx: {pn} https://pastebin.com/vvvca14B"
   },
 
