@@ -5,12 +5,12 @@ module.exports = {
         name: "prompt3",
         aliases: ['p'],
         version: "1.0",
-        author: "Nova Calyx",
+        author: "opu sensei",
         countDown: 5,
         role: 0,
         shortDescription: "Generate an AI prompt ",
         longDescription: "Generates a Midjourney prompt based on text or image input.",
-        category: "𝗔𝗜",
+        category: "ai",
         guide: {
             en: "   {pn} <text>: Generate a prompt based on the text."
                 + "\n   {pn} (reply to an image): Generate a prompt based on the replied image."
